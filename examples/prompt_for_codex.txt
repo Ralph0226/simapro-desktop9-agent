@@ -1,0 +1,8 @@
+Use simapro-desktop9 Skill, and only MCP tools from simapro9 (no COM API). Treat my version as SimaPro Desktop 9.0 ordinary license.
+1) Open examples/desktop9_simple_lci_DEMO.csv as an illustrative template only and validate it;
+2) build a REAL licensed local catalog from an explicitly authorized small SimaPro 9.0 CSV export; do not invent ecoinvent names;
+3) suggest mappings, ask me to verify exactly one candidate per background flow;
+4) use a genuinely exported native SimaPro 9.0 process template to prepare an import CANDIDATE into a separate test project;
+5) after I have verified import, guide the 9.0 native LCIA run and copying results;
+6) normalize the real LCIA export and compare scenarios only under the same method, FU, background DB and system model.
+Keep evidence for every step. Never call a generated file a completed calculation.

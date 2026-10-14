@@ -1,0 +1,9 @@
+# COPY the contents to %USERPROFILE%\.codex\config.toml, replacing the example paths.
+[mcp_servers.simapro9]
+command = 'D:\LCA-Agent\simapro-desktop9\.venv\Scripts\python.exe'
+args = ['D:\LCA-Agent\simapro-desktop9\mcp_server\server.py']
+startup_timeout_sec = 30
+
+[mcp_servers.simapro9.env]
+SIMAPRO_WORKSPACE = 'D:\LCA-Agent\simapro-desktop9'
+SIMAPRO_GUI_ENABLED = '0'

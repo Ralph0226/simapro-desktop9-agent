@@ -1,0 +1,51 @@
+{SimaPro 9.0.0.0}
+{processes}
+{CSV separator: Semicolon}
+{CSV Format version: 8.0.5}
+{Decimal separator: .}
+{Date separator: -}
+{Short date format: yyyy-MM-dd}
+
+Process
+
+Category type
+material
+
+Process identifier
+DEMO_PROCESS_IDENTIFIER
+
+Type
+Unit process
+
+Process name
+DEMO PROCESS
+
+Geography
+CN
+
+Comment
+NOT AN AUTHENTIC SIMAPRO EXPORT; FORMAT ONLY DEMONSTRATION
+
+Products
+"DEMO Product";"kg";"1";"100";"not defined";"Demo";;
+
+Materials/fuels
+"DEMO Electricity";"kWh";"0.1";"Undefined";"0";"0";"0";;
+
+Electricity/heat
+
+Avoided products
+
+Resources
+
+Emissions to air
+
+Emissions to water
+
+Emissions to soil
+
+Final waste flows
+
+Waste to treatment
+
+End

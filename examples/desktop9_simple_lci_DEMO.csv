@@ -1,0 +1,6 @@
+process_id,process_name,flow_id,flow_name,flow_role,amount,unit,provider_type,provider_ref,geography,source,notes
+P00,DEMO sorted waste preparation,F00,DEMO sorted feed,reference_output,1,kg,,,CN,DEMO ONLY,Research example only
+P00,DEMO sorted waste preparation,F01,DEMO electricity,technosphere_input,0.15,kWh,background,Electricity medium voltage,CN,DEMO ONLY,Need actual licensed ecoinvent source
+P01,DEMO materials recovery,F02,DEMO recovered material,reference_output,1,kg,,,CN,DEMO ONLY,Research example only
+P01,DEMO materials recovery,F03,DEMO sorted feed,technosphere_input,1.2,kg,foreground,P00,CN,DEMO ONLY,Links to P00 reference product
+P01,DEMO materials recovery,F04,DEMO electricity,technosphere_input,0.5,kWh,background,Electricity medium voltage,CN,DEMO ONLY,Need actual licensed ecoinvent source

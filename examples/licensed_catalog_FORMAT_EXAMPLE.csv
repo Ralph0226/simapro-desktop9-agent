@@ -1,0 +1,3 @@
+simapro_process_name,reference_unit,geography,library,system_model,version,process_category,source
+EXAMPLE market for electricity medium voltage CN,kWh,CN,EXAMPLE_DATASET_NOT_LICENSED,cut-off,EXAMPLE_VERSION,energy,DEMO ONLY - Not a SimaPro dataset
+EXAMPLE market for electricity medium voltage GLO,kWh,GLO,EXAMPLE_DATASET_NOT_LICENSED,cut-off,EXAMPLE_VERSION,energy,DEMO ONLY - Not a SimaPro dataset

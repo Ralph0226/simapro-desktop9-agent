@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+inputs/
+outputs/
+local-evidence/
+previous-outputs/
+configs/*.local.toml
+*.zip
+*.bak
+.env
+*.spbackup
+*.SimaPro*

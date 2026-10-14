@@ -1,0 +1,5 @@
+process_id,process_name,flow_id,flow_name,flow_role,amount,unit,provider_type,provider_ref,geography,source,notes
+P01,DEMO material recovery,F01,Recovered product,reference_output,1,kg,,,CN,DEMO ONLY,Illustrative values not measured
+P01,DEMO material recovery,F02,Sorted feedstock,technosphere_input,1.2,kg,background,UNMAPPED_feedstock,CN,DEMO ONLY,Needs user-selected SimaPro dataset
+P01,DEMO material recovery,F03,Electricity input,technosphere_input,0.5,kWh,background,UNMAPPED_grid,CN,DEMO ONLY,Needs provider mapping
+P01,DEMO material recovery,F04,Residue,waste_output,0.2,kg,,,CN,DEMO ONLY,Mass balance illustrative only

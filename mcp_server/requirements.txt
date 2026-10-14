@@ -1,0 +1,2 @@
+# Tested stdio/FastMCP runtime; retest the protocol before upgrading.
+mcp==1.30.0

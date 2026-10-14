@@ -1,0 +1,7 @@
+scenario,indicator,value,unit
+baseline,Climate change,12,kg CO2-eq
+low_energy,Climate change,10,kg CO2-eq
+high_energy,Climate change,14,kg CO2-eq
+baseline,Fossil energy use,130,MJ
+low_energy,Fossil energy use,110,MJ
+high_energy,Fossil energy use,150,MJ
